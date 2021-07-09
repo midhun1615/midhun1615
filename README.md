@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Midhun Murali</h1>
-<h3 align="center">Am a Certified Data Scintist from India /h3>
+<h3 align="center">Am a Certified Data Scintist from India h3>
 
 
 # 🔭 I’m currently working on NEURAL NETWORKS AND DEEP LEARNING
