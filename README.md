@@ -1,6 +1,20 @@
 <h1 align="center">Hi 👋, I'm Midhun Murali</h1>
 <h3 align="center">Am a Certified Data Scintist ...</h3>
 
+
+# 🔭 I’m currently working on NEURAL NETWORKS AND DEEP LEARNING
+
+![DL](https://github.com/RanjitM007/Images/blob/main/abbc.gif?raw=true)
+
+# 🌱 I’m currently learning Matlab
+
+![Matlab](https://github.com/RanjitM007/Images/blob/main/plot3d_animated.gif?raw=true)
+
+- 💬 Ask me about 
+- 
+
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /><img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=midhun1615&label=Profile%20views&color=0e75b6&style=flat" alt="midhun1615" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=midhun1615" alt="midhun1615" /></a> </p>
